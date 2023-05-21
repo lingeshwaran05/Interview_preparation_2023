@@ -4,7 +4,7 @@ ordinary years (365 days)
 Leap year (366 days).
 In an ordinary year, there are 365 days, which means 52 x 7 + 1, or 52 weeks and one day.
 ```
-  Days	                 Sunday	     Monday	   Tuesday	   Wednesday	 Thursday	  Friday	  Saturday
+Days	                   Sunday	     Monday	   Tuesday	   Wednesday	 Thursday	  Friday	  Saturday
 Number of odd days	       0	         1	        2	           3	        4	         5	       6 
 ```
 
