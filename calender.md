@@ -23,9 +23,9 @@ No. of odd days in 300 years = (5*3) =1 odd day.
 No. of odd days in 400 years= (5*4+1) = 0 odd days.
 
 Every one of 800 years, 1200 years, 1600 years, 2000 years and so on has 0 odd days.
-``
+```
 February: 28 days(ordinary year) gives '0' odd days, 29 days (leap year) gives '1' odd day.
 
 Jan, March, May, July, Aug, Oct and Dec have 31 days each and therefore give '3' odd days.
 
-April, June, Sep and Nov each have 30 days and therefore give '2' odd days.``
+April, June, Sep and Nov each have 30 days and therefore give '2' odd days.```
