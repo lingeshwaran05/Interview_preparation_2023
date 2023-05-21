@@ -3,7 +3,8 @@ The calendar starts on 1st January and ends on 31st December.  The year is class
 ordinary years (365 days)
 Leap year (366 days).
 In an ordinary year, there are 365 days, which means 52 x 7 + 1, or 52 weeks and one day.
-```  Days	                 Sunday	     Monday	   Tuesday	   Wednesday	 Thursday	  Friday	  Saturday
+```
+  Days	                 Sunday	     Monday	   Tuesday	   Wednesday	 Thursday	  Friday	  Saturday
 Number of odd days	       0	         1	        2	           3	        4	         5	       6 
 ```
 
@@ -49,7 +50,7 @@ Jan, March, May, July, Aug, Oct and Dec have 31 days each and therefore give '3'
 
 April, June, Sep and Nov each have 30 days and therefore give '2' odd days.
 ```
-
+Last day of a century cannot be Tuesday or Thursday or Saturday because of the number of odd days.
 
 ## Which year will have the same calendar as that of the year 2007?
 
