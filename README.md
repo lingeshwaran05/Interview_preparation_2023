@@ -32,6 +32,8 @@ a (r - 1n)/(r-1), When r > 1
 
 #### Geometric Mean
 G.M. of a and b =√ab
+
+
 ![image](https://github.com/lingeshwaran05/Interview_preparation_2023/assets/76167753/74b2cc94-0412-4f13-ae84-1c07d2f0da86)
 ![image](https://github.com/lingeshwaran05/Interview_preparation_2023/assets/76167753/f24f399c-a553-4ca7-ac39-7a0e66fce5fa)
 
